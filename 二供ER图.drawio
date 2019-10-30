@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-30T01:02:36.415Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="m1F8PEadJEG-zSjJFYi3" version="12.1.8" type="github" pages="6">
+<mxfile modified="2019-10-30T01:03:40.307Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="yz2dDAFWival4yA7xm5V" version="12.1.8" type="github" pages="6">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,7 +197,7 @@
         <mxCell id="JLVUT3Wt1ce90T0xWBa9-0" value="集团内网" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="q4dvOKDcgydaXgemwkp2-1">
           <mxGeometry x="111" y="530" width="840" height="1260" as="geometry"/>
         </mxCell>
-        <mxCell id="JLVUT3Wt1ce90T0xWBa9-1" value="内网采集网关区" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="q4dvOKDcgydaXgemwkp2-1">
+        <mxCell id="JLVUT3Wt1ce90T0xWBa9-1" value="内网采集网关区" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;arcSize=5;" vertex="1" parent="q4dvOKDcgydaXgemwkp2-1">
           <mxGeometry x="160" y="560" width="750" height="207" as="geometry"/>
         </mxCell>
         <mxCell id="JLVUT3Wt1ce90T0xWBa9-2" value="广域网" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="q4dvOKDcgydaXgemwkp2-1">
