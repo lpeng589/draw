@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-19T06:20:44.808Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="o_JauiZqHtVEPwfHoE4W" version="12.2.6" type="github" pages="6">
+<mxfile modified="2019-11-19T06:24:12.599Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="eUQA5oRLsim9xFIni6Cj" version="12.2.6" type="github" pages="6">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,11 +223,20 @@
         <mxCell id="ZI_ha6S8S4nAdHzbE5of-5" value="基础层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="330" y="690" width="50" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-30" value="系统安全标准与规范体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="210" y="200" width="100" height="540" as="geometry"/>
         </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-31" value="系统建设与管理保障体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;horizontal=1;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="1170" y="200" width="100" height="540" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-34" value="&lt;span style=&quot;font-weight: 700&quot;&gt;系统建设与管理保障体系&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+          <mxGeometry x="1200" y="420" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-35" value="&lt;span style=&quot;font-weight: 700&quot;&gt;系统安全标准与规范体系&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+          <mxGeometry x="240" y="420" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;" edge="1" parent="PdkYC0QbEYMcqHerXOC_-1" source="OLXxGW03qdAKz4vgC4vg-35" target="OLXxGW03qdAKz4vgC4vg-35">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
