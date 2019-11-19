@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-19T06:30:06.082Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="-OlI9Ya4FpM9jpVSVbUs" version="12.2.6" type="github" pages="6">
+<mxfile modified="2019-11-19T06:33:16.841Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="HU-1eB5jRB98Nt8NlEb_" version="12.2.6" type="github" pages="6">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
           <mxGeometry x="675" y="370" width="210" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-25" value="移动终端子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="923" y="320" width="210" height="80" as="geometry"/>
+          <mxGeometry x="920" y="320" width="213" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-26" value="客户端(C/S)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="430" y="220" width="215" height="60" as="geometry"/>
