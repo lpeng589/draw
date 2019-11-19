@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-19T11:12:11.338Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="rEa39cSzSVQtnq2mEkqt" version="12.2.6" type="github" pages="6">
+<mxfile modified="2019-11-19T11:15:15.019Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="-IZ1LaepMCperojrgP1R" version="12.2.6" type="github" pages="6">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ke-TjRQcupkmBdLWCrX8" name="智慧排水总体架构">
-    <mxGraphModel dx="1122" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PdkYC0QbEYMcqHerXOC_-0"/>
         <mxCell id="PdkYC0QbEYMcqHerXOC_-1" parent="PdkYC0QbEYMcqHerXOC_-0"/>
@@ -137,37 +137,13 @@
           <mxGeometry x="720" y="540" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-8" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="1020" y="540" width="120" height="30" as="geometry"/>
+          <mxGeometry x="1020" y="540" width="116" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-9" value="数据同步中间库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="870" y="540" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-10" value="粤港排水管网地理信息系统综合数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="430" y="590" width="710" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-11" value="基础地图服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="430" y="430" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-12" value="图形浏览服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="570" y="430" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-13" value="制图服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="710" y="430" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-15" value="空间查询服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="860" y="430" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-16" value="查询定位服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="430" y="480" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-18" value="统计服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="570" y="480" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-19" value="打印输出服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="710" y="480" width="120" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-20" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="860" y="480" width="120" height="30" as="geometry"/>
+          <mxGeometry x="430" y="590" width="708" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-21" value="桌面版GIS子系统基本应用功能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="430" y="320" width="210" height="30" as="geometry"/>
@@ -194,19 +170,19 @@
           <mxGeometry x="920" y="220" width="210" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-29" value="" style="group" vertex="1" connectable="0" parent="PdkYC0QbEYMcqHerXOC_-1">
-          <mxGeometry x="430" y="664" width="710" height="60" as="geometry"/>
+          <mxGeometry x="430" y="664" width="705" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-0" value="机房" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-29">
-          <mxGeometry width="149.4736842105263" height="60" as="geometry"/>
+          <mxGeometry width="148.42105263157893" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-1" value="软件环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-29">
-          <mxGeometry x="186.8421052631579" width="149.4736842105263" height="60" as="geometry"/>
+          <mxGeometry x="185.52631578947367" width="148.42105263157893" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-2" value="网络环境" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-29">
-          <mxGeometry x="373.6842105263158" width="149.4736842105263" height="60" as="geometry"/>
+          <mxGeometry x="371.05263157894734" width="148.42105263157893" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-3" value="存储设备等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-29">
-          <mxGeometry x="560.5263157894736" width="149.4736842105263" height="60" as="geometry"/>
+          <mxGeometry x="556.578947368421" width="148.42105263157893" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZI_ha6S8S4nAdHzbE5of-0" value="展现层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="330" y="240" width="50" height="20" as="geometry"/>
@@ -235,8 +211,32 @@
         <mxCell id="OLXxGW03qdAKz4vgC4vg-35" value="&lt;span style=&quot;font-weight: 700&quot;&gt;系统安全标准与规范体系&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="240" y="420" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="OLXxGW03qdAKz4vgC4vg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=20;" edge="1" parent="PdkYC0QbEYMcqHerXOC_-1" source="OLXxGW03qdAKz4vgC4vg-35" target="OLXxGW03qdAKz4vgC4vg-35">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-38" value="" style="group" vertex="1" connectable="0" parent="PdkYC0QbEYMcqHerXOC_-1">
+          <mxGeometry x="430" y="430" width="702" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-11" value="基础地图服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-12" value="图形浏览服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry x="178.6909090909091" width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-13" value="制图服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry x="357.3818181818182" width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-15" value="空间查询服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry x="548.8363636363637" width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-16" value="查询定位服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry y="50" width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-18" value="统计服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry x="178.6909090909091" y="50" width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-19" value="打印输出服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry x="357.3818181818182" y="50" width="153.16363636363636" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="OLXxGW03qdAKz4vgC4vg-20" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="OLXxGW03qdAKz4vgC4vg-38">
+          <mxGeometry x="548.8363636363637" y="50" width="153.16363636363636" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
