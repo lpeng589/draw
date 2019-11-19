@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-19T06:24:12.599Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="eUQA5oRLsim9xFIni6Cj" version="12.2.6" type="github" pages="6">
+<mxfile modified="2019-11-19T06:24:59.076Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="m86IJNgXslh-GkjtSgtY" version="12.2.6" type="github" pages="6">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,19 +112,19 @@
       <root>
         <mxCell id="PdkYC0QbEYMcqHerXOC_-0"/>
         <mxCell id="PdkYC0QbEYMcqHerXOC_-1" parent="PdkYC0QbEYMcqHerXOC_-0"/>
-        <mxCell id="ZI_ha6S8S4nAdHzbE5of-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="ZI_ha6S8S4nAdHzbE5of-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="320" y="200" width="840" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ZI_ha6S8S4nAdHzbE5of-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="ZI_ha6S8S4nAdHzbE5of-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="320" y="310" width="840" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ZI_ha6S8S4nAdHzbE5of-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="ZI_ha6S8S4nAdHzbE5of-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="320" y="420" width="840" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ZI_ha6S8S4nAdHzbE5of-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="ZI_ha6S8S4nAdHzbE5of-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="320" y="530" width="840" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="ZI_ha6S8S4nAdHzbE5of-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
+        <mxCell id="ZI_ha6S8S4nAdHzbE5of-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
           <mxGeometry x="320" y="640" width="840" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="OLXxGW03qdAKz4vgC4vg-4" value="基础地图数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="PdkYC0QbEYMcqHerXOC_-1">
