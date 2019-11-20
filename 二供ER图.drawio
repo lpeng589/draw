@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-20T07:55:58.720Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="uVSwAf45dY4LNx7B3XFI" version="12.2.6" type="github" pages="7">
+<mxfile modified="2019-11-20T07:57:48.131Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="g9ygLS0KTjzNgj51C76u" version="12.2.6" type="github" pages="7">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1345,9 +1345,6 @@
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-0" value="集团内网" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="111" y="530" width="840" height="1260" as="geometry"/>
         </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-1" value="内网采集网关区" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="160" y="560" width="750" height="100" as="geometry"/>
-        </mxCell>
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-2" value="广域网" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="531" y="200" width="420" height="200" as="geometry"/>
         </mxCell>
@@ -1369,50 +1366,21 @@
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-8" value="DMZ区" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="110" y="410" width="840" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-11" target="68Uxw3y2lfiD4QRUU0CM-12">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="68Uxw3y2lfiD4QRUU0CM-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5258064516129" y="589" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-11" target="68Uxw3y2lfiD4QRUU0CM-13">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="68Uxw3y2lfiD4QRUU0CM-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.6518987341772" y="592" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-11" value="Nginx代理服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="510" y="416" width="53" height="72" as="geometry"/>
         </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-12" value="采集网关1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.netscaler_vpx;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="350" y="589" width="97" height="36" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-13" value="采集网关2" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.netscaler_vpx;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="631.5" y="592" width="97" height="36" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-14" value="数据总线层" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;arcSize=8;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="160" y="670" width="750" height="130" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-15" value="流式数据处理层(微服务容器化部署)" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=6;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="160" y="810" width="590" height="130" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-17" target="68Uxw3y2lfiD4QRUU0CM-15">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-17" value="大数据平台缓存" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="810" y="810" width="100" height="130" as="geometry"/>
-        </mxCell>
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-18" value="数据存储层" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=2;dashed=1;dashPattern=1 1;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="159" y="950" width="761" height="410" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-20" target="68Uxw3y2lfiD4QRUU0CM-15">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-20" value="总线(Kafka)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="498" y="700" width="53.33" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-21" value="数据处理2" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="604.5" y="840" width="53.53" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-22" value="数据处理1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="370" y="840" width="54" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-23" value="Redis" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
-          <mxGeometry x="838.5" y="850" width="42.5" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-24" value="大数据平台" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="180" y="980" width="500" height="350" as="geometry"/>
@@ -1557,12 +1525,6 @@
         </mxCell>
         <mxCell id="68Uxw3y2lfiD4QRUU0CM-71" value="泵房PLC" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="GmtGr2dtb5I6wBt02tue-1">
           <mxGeometry x="741" y="330" width="39" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-13" target="68Uxw3y2lfiD4QRUU0CM-20">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="68Uxw3y2lfiD4QRUU0CM-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="GmtGr2dtb5I6wBt02tue-1" source="68Uxw3y2lfiD4QRUU0CM-12" target="68Uxw3y2lfiD4QRUU0CM-20">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
