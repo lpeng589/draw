@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T06:51:33.968Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ux3T1zzepBHcQ9zOFu6U" version="12.2.9" type="github" pages="2">
+<mxfile modified="2019-11-25T06:55:20.514Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="45-liEW-kKclHWw5Gcwd" version="12.2.9" type="github" pages="2">
   <diagram id="rM9idLzCHnovY9rHY8cr" name="数据架构图">
     <mxGraphModel dx="2420" dy="1470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,10 +303,10 @@
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-9" value="&amp;nbsp; 实时数据库(MongoDB)" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=20;fontStyle=1;arcSize=5;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="94" y="1090" width="1064" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-10" value="二供应用" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-10" value="原水水质预警平台" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="510" y="732" width="630" height="138" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-11" value="二供应用" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-11" value="原水水质预警平台" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="507" y="926" width="633" height="144" as="geometry"/>
         </mxCell>
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-12" value="原水水质预警平台" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
@@ -384,7 +384,7 @@
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-36" value="ODS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="30" y="1175" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-37" value="二供应用" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-37" value="原水预警平台" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="1200" y="755" width="160" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-38" value="其他应用" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontStyle=0;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
@@ -474,16 +474,16 @@
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-67" value="集成日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="1131.5" y="383" width="158" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-68" value="水量统计_A水司" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-68" value="省剑潭水站" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="541" y="967.71444082519" width="166.5485074626866" height="35.03800217155266" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-69" value="能耗统计_A水司" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-69" value="雁田水库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="541" y="1019.2703583061889" width="166.5485074626866" height="35.03800217155266" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-70" value="水质统计_A水司" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-70" value="省桥头水站" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="738.6445895522388" y="968.2149837133551" width="166.5485074626866" height="35.03800217155266" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-71" value="压力统计_A水司" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-71" value="老虎坳泵站" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="738.6445895522388" y="1019.770901194354" width="166.5485074626866" height="35.03800217155266" as="geometry"/>
         </mxCell>
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-72" value="报警数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
@@ -504,7 +504,7 @@
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-77" value="监测点数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="1218" y="799" width="122" height="35" as="geometry"/>
         </mxCell>
-        <mxCell id="eBfVBbOUxJfb_mwGEb2f-78" value="泵房静态信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
+        <mxCell id="eBfVBbOUxJfb_mwGEb2f-78" value=".." style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
           <mxGeometry x="1219" y="850" width="122" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="eBfVBbOUxJfb_mwGEb2f-79" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="lUzMO8qkmnhiGmOikWNr-1">
