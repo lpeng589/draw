@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T01:44:26.934Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="NWEG3JdiQmsJumWHqC7j" version="12.2.9" type="github" pages="8">
+<mxfile modified="2019-11-25T02:25:39.413Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="afH74Rs1_z5lUBfMf2-R" version="12.2.9" type="github" pages="8">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="968" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -787,7 +787,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SUx51BFkYwkKePE-yFx5" name="二供-部署图2">
-    <mxGraphModel dx="968" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LpwvUShLIebXpw74GBNA-0"/>
         <mxCell id="LpwvUShLIebXpw74GBNA-1" parent="LpwvUShLIebXpw74GBNA-0"/>
@@ -1433,7 +1433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UZ4MVXO6vsk6BLsXNuA5" name="原水部署图-科荣">
-    <mxGraphModel dx="968" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="N46vOzV09XxopJMtXzsI-0"/>
         <mxCell id="N46vOzV09XxopJMtXzsI-1" parent="N46vOzV09XxopJMtXzsI-0"/>
@@ -1443,30 +1443,23 @@
         <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-1" value="数据存储层" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=2;dashed=1;dashPattern=1 1;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
           <mxGeometry x="159" y="1170" width="761" height="190" as="geometry"/>
         </mxCell>
-        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-3" value="B/S数据库" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
-          <mxGeometry x="568" y="1220" width="317" height="121" as="geometry"/>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-3" value="物联网大数据平台" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="190" y="1220" width="210" height="121" as="geometry"/>
         </mxCell>
-        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-6" value="组织架构数据库(Oralce)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
-          <mxGeometry x="639" y="1259" width="42.5" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-7" value="业务数据库" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
-          <mxGeometry x="778.5" y="1258" width="43" height="51" as="geometry"/>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-6" value="实时数据库(Mongodb)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="252.5" y="1256" width="42.5" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-8" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;arcSize=4;dashed=1;dashPattern=1 1;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
           <mxGeometry x="160" y="1380" width="760" height="140" as="geometry"/>
         </mxCell>
-        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="N46vOzV09XxopJMtXzsI-1" source="_l7Kv6kjZ1wVXKfH4-0L-13" target="_l7Kv6kjZ1wVXKfH4-0L-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="795" y="1330" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="N46vOzV09XxopJMtXzsI-1" source="_l7Kv6kjZ1wVXKfH4-0L-13" target="_l7Kv6kjZ1wVXKfH4-0L-1">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-13" value="原水预警平台应用服务器1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop_web;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
           <mxGeometry x="337" y="1400" width="76.5" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="N46vOzV09XxopJMtXzsI-1" source="_l7Kv6kjZ1wVXKfH4-0L-15" target="_l7Kv6kjZ1wVXKfH4-0L-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="795" y="1330" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="N46vOzV09XxopJMtXzsI-1" source="_l7Kv6kjZ1wVXKfH4-0L-15" target="_l7Kv6kjZ1wVXKfH4-0L-1">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-15" value="原水预警平台应用服务器2" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop_web;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
           <mxGeometry x="688" y="1400" width="76.5" height="90" as="geometry"/>
@@ -1503,6 +1496,48 @@
         </mxCell>
         <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-26" value="用户3" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.thin_client;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
           <mxGeometry x="707.5" y="1645" width="71" height="71" as="geometry"/>
+        </mxCell>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-27" value="原水预警平台业务数据库" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="690" y="1220" width="192" height="121" as="geometry"/>
+        </mxCell>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-7" value="业务数据库(Oracle)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="784" y="1255" width="43" height="51" as="geometry"/>
+        </mxCell>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-28" value="实验室系统" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="434.5" y="1220.5" width="210" height="121" as="geometry"/>
+        </mxCell>
+        <mxCell id="_l7Kv6kjZ1wVXKfH4-0L-29" value="实验室检测数据(Oracle)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="511.5" y="1255" width="43" height="51" as="geometry"/>
+        </mxCell>
+        <mxCell id="w274lGIEGA6MxreUDG7j-0" value="DMZ区" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="113" y="1010" width="840" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="7e8T0jk-MUXgylwiNssA-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="N46vOzV09XxopJMtXzsI-1" source="w274lGIEGA6MxreUDG7j-1" target="_l7Kv6kjZ1wVXKfH4-0L-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="w274lGIEGA6MxreUDG7j-1" value="Nginx代理服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.directory_server;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="513" y="1016" width="53" height="72" as="geometry"/>
+        </mxCell>
+        <mxCell id="7e8T0jk-MUXgylwiNssA-0" value="广域网" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="534" y="800" width="420" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="13O9HSn-QTB_Nwe16T-8-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N46vOzV09XxopJMtXzsI-1" source="7e8T0jk-MUXgylwiNssA-1" target="w274lGIEGA6MxreUDG7j-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="7e8T0jk-MUXgylwiNssA-1" value="互联网" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="113" y="800" width="420" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="13O9HSn-QTB_Nwe16T-8-0" value="省环境监测中心" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="227" y="875" width="39" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="13O9HSn-QTB_Nwe16T-8-1" value="其他外部数据源" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="337" y="875" width="39" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="13O9HSn-QTB_Nwe16T-8-3" value="泵站" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="669.5" y="875" width="39" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="13O9HSn-QTB_Nwe16T-8-4" value="监测站" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.chassis;" vertex="1" parent="N46vOzV09XxopJMtXzsI-1">
+          <mxGeometry x="779.5" y="875" width="39" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
