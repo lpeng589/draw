@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T03:55:14.213Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="5w-h9BBAW4-ghMBn_VgK" version="12.2.9" type="github" pages="8">
+<mxfile modified="2019-11-25T04:07:36.886Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="t9tUljJBQJ-2NNynSCfI" version="12.2.9" type="github" pages="8">
   <diagram id="dPFocKiQtaIwiTLelP18" name="设备台账ER图">
     <mxGraphModel dx="968" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1022,7 +1022,7 @@
         <mxCell id="07lyRdQ2yHRzvUtOlSZ_-0"/>
         <mxCell id="07lyRdQ2yHRzvUtOlSZ_-1" parent="07lyRdQ2yHRzvUtOlSZ_-0"/>
         <mxCell id="HGLtxZZuQRj1eySCDG95-0" value="&lt;span style=&quot;font-weight: 700 ; white-space: normal&quot;&gt;原水水质监控预警平台(Web端)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="40" y="521" width="408" height="40" as="geometry"/>
+          <mxGeometry x="40" y="521" width="1109" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="HGLtxZZuQRj1eySCDG95-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#007FFF;fontFamily=Times New Roman;fontSize=13;fontColor=#FFFFFF;" parent="07lyRdQ2yHRzvUtOlSZ_-1" source="HGLtxZZuQRj1eySCDG95-3" target="HGLtxZZuQRj1eySCDG95-15" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -1088,22 +1088,22 @@
         <mxCell id="HGLtxZZuQRj1eySCDG95-44" value="现场检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="190" y="670.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-49" value="泵房地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-49" value="在线数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1220" y="608" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-50" value="实时数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-50" value="实验室数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1220" y="638" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-51" value="指标数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-51" value="水质巡查" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1220" y="668" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-52" value="巡检任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-52" value="水质观测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1220" y="697.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-53" value="保养任务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-53" value="现场检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1220" y="727" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-54" value="维修工单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-54" value="地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1220" y="756.5" width="110" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="HGLtxZZuQRj1eySCDG95-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#007FFF;fontFamily=Times New Roman;fontSize=13;fontColor=#FFFFFF;" parent="07lyRdQ2yHRzvUtOlSZ_-1" source="HGLtxZZuQRj1eySCDG95-59" edge="1">
@@ -1138,18 +1138,6 @@
         <mxCell id="HGLtxZZuQRj1eySCDG95-62" value="RESTfull API" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFB366;fontFamily=Times New Roman;fontSize=15;align=center;fontStyle=0;strokeColor=none;perimeterSpacing=10;arcSize=50;fontColor=#FFFFFF;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="670" y="817" width="140" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-63" value="水务大数据平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="40" y="920" width="450" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-64" value="生产数据库(MongoDB)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="41" y="970" width="222" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-65" value="数据库连接管理(Oracle)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="500" y="920" width="850" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-66" value="统计库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="500" y="970" width="150" height="40" as="geometry"/>
-        </mxCell>
         <mxCell id="HGLtxZZuQRj1eySCDG95-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#007FFF;fontFamily=Times New Roman;fontSize=13;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" source="HGLtxZZuQRj1eySCDG95-68" target="HGLtxZZuQRj1eySCDG95-70" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
@@ -1165,7 +1153,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-70" value="GIS地图服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-70" value="省环境监测中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1415" y="520.5" width="150" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="HGLtxZZuQRj1eySCDG95-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#007FFF;fontFamily=Times New Roman;fontSize=13;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" source="HGLtxZZuQRj1eySCDG95-72" target="HGLtxZZuQRj1eySCDG95-75" edge="1">
@@ -1176,7 +1164,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-72" value="视频平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-72" value="省水文局" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1415" y="640.5" width="150" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="HGLtxZZuQRj1eySCDG95-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#007FFF;fontFamily=Times New Roman;fontSize=13;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" source="HGLtxZZuQRj1eySCDG95-74" target="HGLtxZZuQRj1eySCDG95-78" edge="1">
@@ -1187,10 +1175,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-74" value="大工单系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;fontStyle=0" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-74" value="深圳水源办" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;fontStyle=0" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1415" y="866" width="150" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-75" value="微服务管理平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-75" value="对港供水指挥中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1415" y="761.5" width="150" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="HGLtxZZuQRj1eySCDG95-76" value="" style="endArrow=classic;html=1;strokeColor=#007FFF;fontFamily=Times New Roman;fontSize=13;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" edge="1">
@@ -1205,23 +1193,8 @@
             <mxPoint x="1300" y="882" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-78" value="&lt;span style=&quot;&quot;&gt;I water gateway&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
+        <mxCell id="HGLtxZZuQRj1eySCDG95-78" value="&lt;span&gt;联普&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fontFamily=Times New Roman;strokeColor=#004C99;fontColor=#004C99;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
           <mxGeometry x="1415" y="970" width="150" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-79" value="台账库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="670" y="970" width="150" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-80" value="配置库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="840.5" y="970" width="150" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-81" value="运维库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="1010" y="970" width="172" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-82" value="日志库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="1200" y="970" width="150" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="HGLtxZZuQRj1eySCDG95-83" value="统计数据库(Oracle)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="07lyRdQ2yHRzvUtOlSZ_-1" vertex="1">
-          <mxGeometry x="276" y="970" width="213" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="SKrrBYhAZMBggPzMHXYO-0" value="预警预报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;verticalAlign=top;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="457.5" y="580.5" width="130" height="210" as="geometry"/>
@@ -1241,50 +1214,107 @@
         <mxCell id="SKrrBYhAZMBggPzMHXYO-5" value="藻类信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="188.5" y="702" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-6" value="水质合格率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-6" value="机理模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="467.5" y="612" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-7" value="压力合格率" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-7" value="水质报警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="467.5" y="671" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-8" value="压力统计" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-8" value="经验模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="467.5" y="641" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-16" value="KPI暂时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-16" value="标准化管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="610" y="612" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-17" value="工作待办" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-17" value="风险源评级" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="610" y="642" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-18" value="地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-18" value="风险源巡查" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="610" y="671.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-28" value="KPI暂时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-28" value="应急事件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="750" y="611.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-29" value="工作待办" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-29" value="应急知识库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="750" y="641.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-30" value="地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
-          <mxGeometry x="750" y="671" width="110" height="25" as="geometry"/>
-        </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-31" value="KPI暂时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-31" value="水质在线" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="890" y="613" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-32" value="工作待办" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-32" value="实验室检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="890" y="643" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-33" value="地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-33" value="风险源报表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="890" y="672.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-34" value="KPI暂时" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-34" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="1030.5" y="612.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-35" value="工作待办" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-35" value="预警方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="1030.5" y="642.5" width="110" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="SKrrBYhAZMBggPzMHXYO-36" value="地图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-36" value="站点管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
           <mxGeometry x="1030.5" y="672" width="110" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-38" value="水质调度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="609" y="702" width="110" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-39" value="水质观测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="609" y="731.5" width="110" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-40" value="水质观测报表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="890" y="702" width="110" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-41" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="1030.5" y="702" width="110" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-44" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;align=center;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#007FFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="1030.5" y="731.5" width="110" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-46" value="" style="group" vertex="1" connectable="0" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="762" y="920" width="588" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-65" value="数据库连接管理(Oracle)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-46" vertex="1">
+          <mxGeometry width="588" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-80" value="业务数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-46" vertex="1">
+          <mxGeometry x="1.7260273972602738" y="50" width="172.60273972602738" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-81" value="统计数据库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-46" vertex="1">
+          <mxGeometry x="196.7671232876712" y="50" width="197.91780821917806" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-82" value="日志库" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-46" vertex="1">
+          <mxGeometry x="415.3972602739725" y="50" width="172.60273972602738" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-47" value="" style="group" vertex="1" connectable="0" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="40" y="920" width="351" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-63" value="物联网大数据平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-47" vertex="1">
+          <mxGeometry width="172.76391982182625" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-64" value="生产数据库(MongoDB)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-47" vertex="1">
+          <mxGeometry x="0.7817371937639197" y="50" width="173.5456570155902" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="HGLtxZZuQRj1eySCDG95-83" value="实验室检测数据(Oracle)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" parent="SKrrBYhAZMBggPzMHXYO-47" vertex="1">
+          <mxGeometry x="184.48997772828506" y="50" width="166.51002227171492" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-45" value="实验室系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="SKrrBYhAZMBggPzMHXYO-47">
+          <mxGeometry x="184.48997772828506" width="165.728285077951" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-48" value="" style="group" vertex="1" connectable="0" parent="07lyRdQ2yHRzvUtOlSZ_-1">
+          <mxGeometry x="400.5" y="919.5" width="351" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-49" value="水务大数据平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="SKrrBYhAZMBggPzMHXYO-48">
+          <mxGeometry width="172.76391982182625" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-50" value="生产数据库(MongoDB)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="SKrrBYhAZMBggPzMHXYO-48">
+          <mxGeometry x="0.7817371937639197" y="50" width="173.5456570155902" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-51" value="实验室检测数据(Oracle)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="SKrrBYhAZMBggPzMHXYO-48">
+          <mxGeometry x="184.48997772828506" y="50" width="166.51002227171492" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="SKrrBYhAZMBggPzMHXYO-52" value="实验室系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;labelBackgroundColor=none;fillColor=#007FFF;fontColor=#FFFFFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="SKrrBYhAZMBggPzMHXYO-48">
+          <mxGeometry x="184.48997772828506" width="165.728285077951" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
